@@ -1,3 +1,15 @@
+ Doctor Catcher is an application for the android platform that is used for users such 
+as patients to make a doctor appointment. This application is capable to track, monitor, and
+also help their user to ensure that the appointment is run smoothly without missing any
+updates. The aim of this project or application is to save patient costs to travel and also time
+from waiting to queue at the clinic to get an appointment date while when using this
+application they able to make an appointment at the end of their finger only. Most of the
+clinic available out there are still using a manual system to make an appointment such as the
+user need to call to the administrator and the admin will write down the information of the
+patient for an appointment which causes the data storage is not efficient and might cause a
+problem if there are any parties. Therefore, when using Doctor Catcher application both user
+and admin able to solve those problems. 
+
 There are several functions that users can use when using this application which is 
 Search for Appointment and Location. This function is used for the user to search which
 appointment is available at a specific clinic. It also will show date, time, and the status of the
