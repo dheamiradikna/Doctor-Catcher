@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Doctor Catcher</string>
+    <string name="label_buy_now">Buy Now</string>
+    <string name="buy_button">Pay</string>
+    <string name="description">Choose Payment Method</string>
+    <string name="address">Pahang, Gambang, 26300</string>
+    <string name="lauren_nobel">Check Out Appointment</string>
+    <string name="merchant_id_not_set_message"><![CDATA[To request a Google Pay nonce, replace <b>ConfigHelper.GOOGLE_PAY_MERCHANT_ID</b> with your Google Pay Merchant ID.]]></string>
+    <string name="merchant_id_not_set_title">Missing Google Pay Merchant ID</string>
+    <string name="missing_application_id_message"><![CDATA[Please update <b>sqip.SQUARE_APPLICATION_ID</b> in <b>AndroidManifest.xml</b> if you want to be able to create a nonce.]]></string>
+    <string name="missing_application_id_title">Missing Square Application ID</string>
+    <string name="network_failure_title">Network Error</string>
+    <string name="network_failure">There was an error processing the payment, please check your network connection.</string>
+    <string name="pay_button">Pay</string>
+    <string name="pay_with_card">Pay with card</string>
+    <string name="place_your_order">Payment Details</string>
+    <string name="price">20 RM</string>
+    <string name="refund_helper_text">You can refund this transaction through your Google Pay.</string>
+    <string name="retry">Retry</string>
+    <string name="server_host_not_set_message"><![CDATA[Check logcat <b>Info</b> messages for a CURL command to charge the nonce, or replace <b>ConfigHelper.CHARGE_SERVER_HOST</b> with your server host.]]></string>
+    <string name="server_host_not_set_title">Nonce generated but not charged</string>
+    <string name="ship_to">Name</string>
+    <string name="successful_order_message">Your payment was successful.</string>
+    <string name="successful_order_title">THANK YOU</string>
+    <string name="super_cookie">Appointment Checkout</string>
+    <string name="total">Total</string>
+    <string name="unsuccessful_order">Your payment was not successful</string>
+</resources>
